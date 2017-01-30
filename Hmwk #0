@@ -1,2 +1,6 @@
 Public class HelloWorld {
 //Build main string. Add Println Push commit. 
+public static void main (String [] args) {
+system.out.println("Hello World");
+     }
+ }
